@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\калькулятр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\калькулятр.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\калькулятр.AssemblyInfo.cs
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\калькулятр.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\калькулятр\калькулятр\bin\Debug\net6.0\калькулятр.exe
+C:\Users\admin\source\repos\калькулятр\калькулятр\bin\Debug\net6.0\калькулятр.deps.json
+C:\Users\admin\source\repos\калькулятр\калькулятр\bin\Debug\net6.0\калькулятр.runtimeconfig.json
+C:\Users\admin\source\repos\калькулятр\калькулятр\bin\Debug\net6.0\калькулятр.dll
+C:\Users\admin\source\repos\калькулятр\калькулятр\bin\Debug\net6.0\калькулятр.pdb
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\калькулятр.dll
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\refint\калькулятр.dll
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\калькулятр.pdb
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\калькулятр.genruntimeconfig.cache
+C:\Users\admin\source\repos\калькулятр\калькулятр\obj\Debug\net6.0\ref\калькулятр.dll
